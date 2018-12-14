@@ -1,0 +1,7 @@
+{
+  "name": "ChartPie",
+  "version": "1.0.0",
+  "description": "ChartPie Component",
+  "private": true,
+  "main": "./ChartPie.jsx"
+}

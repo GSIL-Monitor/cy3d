@@ -1,0 +1,55 @@
+.container {
+	position: relative;
+	width: 100%;
+	height: 100%;
+
+	.wrapper {
+		position: relative;
+		width: 100%;
+		height: calc(~"100% - 64px");
+		background: rgb(16,142,233);
+	}
+
+	.logoTitle {
+		position: absolute;
+		left: 0;
+		top: 0;
+		z-index: 4;
+		font-size: 200px;
+		font-family: cursive;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 100%;
+		height: 100%;
+		background: transparent;
+		color: white;
+		user-select: none;
+		cursor: default;
+		padding-bottom: 200px;
+	}
+
+	.logoSubTitle {
+		color: white;
+	    font-size: 40px;
+	    position: absolute;
+	    z-index: 5;
+	    width: 100%;
+	    height: 100%;
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
+	    margin-top: 70px;
+	    user-select: none;
+		cursor: default;
+	}
+
+	.canvasWrapper {
+		position: relative;
+		width: 100%;
+		height: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+}

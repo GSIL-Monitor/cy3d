@@ -1,0 +1,7 @@
+{
+  "name": "Text",
+  "version": "1.0.0",
+  "description": "Text Component",
+  "private": true,
+  "main": "./Text.jsx"
+}

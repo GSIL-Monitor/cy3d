@@ -1,0 +1,7 @@
+{
+  "name": "EnchancedComponent",
+  "version": "1.0.0",
+  "description": "增强React.Component功能，加入autobind，eventemitter",
+  "private": true,
+  "main": "./EnchancedComponent.jsx"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Util",
+  "version": "1.0.0",
+  "description": "工具函数",
+  "private": true,
+  "main": "./Util.js"
+}

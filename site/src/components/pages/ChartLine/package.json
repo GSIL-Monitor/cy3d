@@ -1,0 +1,7 @@
+{
+  "name": "ChartLine",
+  "version": "1.0.0",
+  "description": "ChartLine Component",
+  "private": true,
+  "main": "./ChartLine.jsx"
+}

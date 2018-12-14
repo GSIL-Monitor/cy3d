@@ -1,0 +1,7 @@
+{
+  "name": "MainLayout",
+  "version": "1.0.0",
+  "description": "布局菜单栏组件",
+  "private": true,
+  "main": "./MainLayout.jsx"
+}

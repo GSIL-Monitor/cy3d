@@ -1,0 +1,7 @@
+{
+  "name": "Header",
+  "version": "1.0.0",
+  "description": "Header Component",
+  "private": true,
+  "main": "./Header.jsx"
+}

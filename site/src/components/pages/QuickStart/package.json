@@ -1,0 +1,7 @@
+{
+  "name": "QuickStart",
+  "version": "1.0.0",
+  "description": "QuickStart Component",
+  "private": true,
+  "main": "./QuickStart.jsx"
+}

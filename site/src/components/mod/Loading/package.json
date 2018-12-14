@@ -1,0 +1,7 @@
+{
+  "name": "Loading",
+  "version": "1.0.0",
+  "description": "Loading Component",
+  "private": true,
+  "main": "./Loading.jsx"
+}

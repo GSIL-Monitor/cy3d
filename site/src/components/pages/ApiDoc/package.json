@@ -1,0 +1,7 @@
+{
+  "name": "ApiDoc",
+  "version": "1.0.0",
+  "description": "ApiDoc Component",
+  "private": true,
+  "main": "./ApiDoc.jsx"
+}

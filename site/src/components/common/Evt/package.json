@@ -1,0 +1,7 @@
+{
+  "name": "Evt",
+  "version": "1.0.0",
+  "description": "global event",
+  "private": true,
+  "main": "./Evt.js"
+}

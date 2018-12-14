@@ -1,0 +1,12 @@
+.graph-info-msg {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    opacity: 0.7;
+    font-size: 22px;
+}
+
+.graph-tooltip {
+    position: absolute;
+}

@@ -1,0 +1,7 @@
+{
+  "name": "NotFound",
+  "version": "1.0.0",
+  "description": "页面不存在组件",
+  "private": true,
+  "main": "./NotFound.jsx"
+}

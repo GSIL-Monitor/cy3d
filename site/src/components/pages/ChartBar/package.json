@@ -1,0 +1,7 @@
+{
+  "name": "ChartBar",
+  "version": "1.0.0",
+  "description": "ChartBar Component",
+  "private": true,
+  "main": "./ChartBar.jsx"
+}

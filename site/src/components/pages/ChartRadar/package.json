@@ -1,0 +1,7 @@
+{
+  "name": "ChartRadar",
+  "version": "1.0.0",
+  "description": "ChartRadar Component",
+  "private": true,
+  "main": "./ChartRadar.jsx"
+}

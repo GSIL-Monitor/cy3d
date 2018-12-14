@@ -1,0 +1,7 @@
+{
+  "name": "Content",
+  "version": "1.0.0",
+  "description": "Content Component",
+  "private": true,
+  "main": "./Content.jsx"
+}

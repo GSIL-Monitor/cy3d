@@ -1,0 +1,67 @@
+.container {
+	width: 100%;
+	height: 64px;
+	position: relative;
+	background: #108ee9;
+
+	.logoContent {
+		position: absolute;
+		left: 20px;
+		top: 0;
+		height: 100%;
+		text-align: center;
+		line-height: 64px;
+		color: white;
+		user-select: none;
+		cursor: pointer;
+
+		>span {
+			font-size: 36px;
+			font-family: cursive;
+		}
+	}
+
+	.menus {
+		position: absolute;
+		right: 20px;
+		top: 0;
+		line-height: 64px;
+
+		.menuItem {
+			display: inline-block;
+			color: white;
+			cursor: pointer;
+			font-size: 14px;
+			letter-spacing: 2px;
+			width: 100px;
+			position: relative;
+			margin: 0 5px;
+
+			>div {
+				position: absolute;
+				width: 100%;
+				height: 4px;
+				background: white;
+				display: none;
+			}
+
+			>span {
+				padding: 0 30px;
+			}
+		}
+
+		.menuItem.selected {
+			>div {
+				display: block;
+			}
+		}
+
+		.menuItem:hover {
+			background: #0e77ca;
+
+			>div {
+				display: block;
+			}
+		}
+	}
+}

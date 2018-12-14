@@ -1,0 +1,7 @@
+{
+  "name": "ChartRelation",
+  "version": "1.0.0",
+  "description": "ChartRelation Component",
+  "private": true,
+  "main": "./ChartRelation.jsx"
+}

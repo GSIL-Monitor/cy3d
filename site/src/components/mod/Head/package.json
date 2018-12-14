@@ -1,0 +1,7 @@
+{
+  "name": "Head",
+  "version": "1.0.0",
+  "description": "Head Component",
+  "private": true,
+  "main": "./Head.jsx"
+}

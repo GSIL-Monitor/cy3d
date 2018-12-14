@@ -1,0 +1,37 @@
+.normal {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.contentWrapper {
+  width: 100%;
+  height: calc(~"100% - 64px");
+  position: relative;
+}
+
+.header {
+  background: #108ee9;
+  color: white;
+
+  .logo {
+    display: inline-block;
+    font-size: 20px;
+  }
+
+  .systemMenu {
+    color: white;
+    // display: inline-block;
+    display: none;
+    float: right;
+    >a {
+      color: white;
+    }
+  }
+}
+
+.main {
+  width: 100%;
+  padding: 20px 50px 100px 50px;
+  background: #f9f9f9;
+}

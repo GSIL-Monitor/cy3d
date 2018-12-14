@@ -1,0 +1,9 @@
+{
+	"bar": "bar.js",
+    "line": "line.js",
+    "pie": "pie.js",
+    "relation": "relation.js",
+    "lineBar": "lineBar.js",
+    "tagCloud": "tagCloud.js",
+    "radar": "radar.js"
+}

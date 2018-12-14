@@ -1,0 +1,7 @@
+{
+  "name": "ChartTagCloud",
+  "version": "1.0.0",
+  "description": "ChartTagCloud Component",
+  "private": true,
+  "main": "./ChartTagCloud.jsx"
+}
